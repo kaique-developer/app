@@ -30,7 +30,7 @@ Constantes
 
 Strings (textos): "" '' ``
 Number: 2 1.4
-Function
+Boolean: true, false 
 
 ## Operadores
 
