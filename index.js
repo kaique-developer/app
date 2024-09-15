@@ -30,7 +30,7 @@ const start = async () => {
                 console.log("vamos listar")
                 break
             case "sair":
-                console.log("Até a próxima!")
+                console.log("Até uma próxima!")
                 return        
         }
     }
